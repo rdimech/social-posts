@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Pacifico', cursive;
+    color: rgb(74, 185, 222);
+    text-align: center;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: rgb(203, 203, 203);
+    width: 600px;
+    margin: 0 auto;
+    padding: 25px 25px 25px 25px;
+}
+
+.thoughtList {
+    border-radius: 5px;
+    background-color: white;
+    width: 550px;
+    margin: 0 auto;
+    padding: 25px 25px 25px 25px;
+}
+
+button {
+    padding: 10px 5px;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 15px;
+    color: gray;
+    font-weight: bold;
+}
