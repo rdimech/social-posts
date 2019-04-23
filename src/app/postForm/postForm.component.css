@@ -31,3 +31,7 @@ label {
     color: rgb(7, 122, 160);
     font-weight: bold;
 }
+
+textarea:focus {
+    height: 200px;
+}
